@@ -1,7 +1,7 @@
 plotly==5.9.0
 
 seaborn==0.12.2
-
+pickle
 keras==2.12.0
 
 matplotlib==3.7.1

@@ -1,3 +1,4 @@
 streamlit
 sklearn
 plotly==5.9.0
+pickle5
